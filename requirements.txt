@@ -1,0 +1,2 @@
+drawSvg==1.8.3
+pygraphml==2.4.2

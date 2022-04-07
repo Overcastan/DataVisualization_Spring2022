@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="920" height="800" viewBox="0 -800 920 800">
+<defs>
+</defs>
+<path d="M80,-720 L80,-660" stroke="grey" stroke-width="6" />
+<path d="M80,-720 L380,-720" stroke="grey" stroke-width="6" />
+<path d="M80,-660 L80,-600" stroke="grey" stroke-width="6" />
+<path d="M80,-660 L320,-660" stroke="grey" stroke-width="6" />
+<path d="M80,-600 L80,-540" stroke="grey" stroke-width="6" />
+<path d="M80,-600 L140,-600" stroke="grey" stroke-width="6" />
+<path d="M140,-600 L140,-540" stroke="grey" stroke-width="6" />
+<path d="M140,-600 L200,-600" stroke="grey" stroke-width="6" />
+<path d="M200,-600 L200,-540" stroke="grey" stroke-width="6" />
+<path d="M200,-540 L200,-480" stroke="grey" stroke-width="6" />
+<path d="M200,-480 L200,-420" stroke="grey" stroke-width="6" />
+<path d="M200,-480 L260,-480" stroke="grey" stroke-width="6" />
+<path d="M380,-720 L380,-660" stroke="grey" stroke-width="6" />
+<path d="M380,-660 L380,-600" stroke="grey" stroke-width="6" />
+<path d="M380,-600 L380,-540" stroke="grey" stroke-width="6" />
+<path d="M380,-600 L440,-600" stroke="grey" stroke-width="6" />
+<circle cx="260" cy="-480" r="12" fill="red" />
+<circle cx="80" cy="-720" r="12" fill="red" />
+<circle cx="380" cy="-540" r="12" fill="red" />
+<circle cx="440" cy="-600" r="12" fill="red" />
+<circle cx="380" cy="-720" r="12" fill="red" />
+<circle cx="80" cy="-540" r="12" fill="red" />
+<circle cx="80" cy="-600" r="12" fill="red" />
+<circle cx="200" cy="-480" r="12" fill="red" />
+<circle cx="140" cy="-600" r="12" fill="red" />
+<circle cx="200" cy="-540" r="12" fill="red" />
+<circle cx="320" cy="-660" r="12" fill="red" />
+<circle cx="380" cy="-600" r="12" fill="red" />
+<circle cx="140" cy="-540" r="12" fill="red" />
+<circle cx="200" cy="-600" r="12" fill="red" />
+<circle cx="200" cy="-420" r="12" fill="red" />
+<circle cx="380" cy="-660" r="12" fill="red" />
+<circle cx="80" cy="-660" r="12" fill="red" />
+</svg>
